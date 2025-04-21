@@ -14,7 +14,7 @@ More about me: []
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"  />
