@@ -17,15 +17,15 @@ More about me: []
 <div align="left">
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="30" alt="androidstudio logo"  />
+  <img src="https://skillicons.dev/icons?i=pycharm" height="30" alt="pycharm logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="30" alt="androidstudio logo"  />
+  <img src="https://skillicons.dev/icons?i=arch" height="30" alt="arch logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="30" alt="androidstudio logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="30" alt="androidstudio logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cpp logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="30" alt="androidstudio logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css logo"  />
   <img width="12" />
   
 </div>
