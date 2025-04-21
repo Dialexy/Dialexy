@@ -78,6 +78,8 @@ More about me: []
   <a href="https://x.com/Dialexyyy"?igsh=MXAwNjB2bW43OWc4ag==/" target="_blank">
     <img src="https://twitter.com/bgardner" height="35" alt=""  />
   </a>
+  <a href="https://twitter.com/bgardner" class="twitter-follow-button" data-show-count="true" data-size="large">Follow @bgardner</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 </div>
 
 ###
