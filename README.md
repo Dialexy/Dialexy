@@ -76,7 +76,7 @@ More about me: []
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://x.com/Dialexyyy"?igsh=MXAwNjB2bW43OWc4ag==/" target="_blank">
-    <img src="image:https://img.shields.io/twitter/url[X (formerly Twitter) URL]" height="35" alt=""  />
+    <img src="https://img.shields.io/twitter/url" height="35" alt=""  />
   </a>
 </div>
 
