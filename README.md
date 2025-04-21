@@ -15,8 +15,8 @@ More about me: []
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=pycharm" height="30" alt="pycharm logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=arch" height="30" alt="arch logo"  />
