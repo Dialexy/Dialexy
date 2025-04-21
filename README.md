@@ -33,7 +33,7 @@ More about me: []
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt=github" logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gmail" height="30" alt="gmail logo"  />
   <img width="12" />
@@ -43,10 +43,29 @@ More about me: []
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt=js" logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="js logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=latex" height="30" alt="latex logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="linkedin logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=lua" height="30" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=neovim" height="30" alt="neovim logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="py logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=" height="30" alt=" logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=" height="30" alt=" logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=" height="30" alt=" logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=" height="30" alt=" logo"  />
+  <img width="12" />
+  
   
   
   
