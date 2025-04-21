@@ -17,10 +17,10 @@ More about me: []
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=pycharm" height="30" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arch" height="30" alt="arch logo"  />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pycharm" height="50" alt="pycharm logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=arch" height="50" alt="arch logo"  />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cpp logo"  />
