@@ -67,7 +67,7 @@ More about me: []
 
 <div align="left">
   <a href="*******" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Website&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="website link"  />
+    <img src="https://img.shields.io/static/v1?message=Website&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="website link"  />
   </a>
   <a href="mailto:filiperamos212@gmial.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
