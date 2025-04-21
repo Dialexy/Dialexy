@@ -75,8 +75,8 @@ More about me: []
   <a href="https://www.instagram.com/filipramos_/"?igsh=MXAwNjB2bW43OWc4ag==/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://www.instagram.com/filipramos_/"?igsh=MXAwNjB2bW43OWc4ag==/" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/:user" height="35" alt=""  />
+  <a href="https://x.com/Dialexyyy"?igsh=MXAwNjB2bW43OWc4ag==/" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/:Dialexyyy" height="35" alt=""  />
   </a>
 </div>
 
