@@ -76,7 +76,7 @@ More about me: []
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://www.instagram.com/filipramos_/"?igsh=MXAwNjB2bW43OWc4ag==/" target="_blank">
-    <img src="https://img.shields.io/twitter/url.svg?style=social&url=https%3A%2F%2Fshields.io?message=Twitter" height="35" alt=""  />
+    <img src="https://img.shields.io/twitter/follow/:user" height="35" alt=""  />
   </a>
 </div>
 
