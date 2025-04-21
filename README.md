@@ -27,6 +27,28 @@ More about me: []
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="css logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=discord" height="30" alt="discord logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt=github" logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gmail" height="30" alt="gmail logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=instagram" height="30" alt="instagram logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt=js" logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=latex" height="30" alt="latex logo"  />
+  <img width="12" />
+  
+  
   
 </div>
 
