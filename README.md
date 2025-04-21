@@ -15,51 +15,51 @@ More about me: []
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm loo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=arch" height="40" alt="arch logo"  />
+  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm loo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="js logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="py logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=latex" height="40" alt="latex logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=arch" height="40" alt="arch logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="js logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=latex" height="40" alt="latex logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="py logo"  />
+  <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="twitter logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows logo"  />
+  <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
   <img width="8" />
 </div>
 
