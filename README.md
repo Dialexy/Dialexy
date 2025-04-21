@@ -15,15 +15,15 @@ More about me: []
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"  />
+  <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm loo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=arch" height="40" alt="arch logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
   <img width="8" />
