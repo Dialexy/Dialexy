@@ -15,11 +15,11 @@ More about me: []
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=pycharm" height="35" alt="pycharm logo"  />
+  <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=arch" height="35" alt="arch logo"  />
+  <img src="https://skillicons.dev/icons?i=arch" height="40" alt="arch logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
   <img width="12" />
