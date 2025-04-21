@@ -57,18 +57,10 @@ More about me: []
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="py logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=" height="30" alt=" logo"  />
+  <img src="https://skillicons.dev/icons?i=twitter" height="30" alt="twitter logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=" height="30" alt=" logo"  />
+  <img src="https://skillicons.dev/icons?i=windows" height="30" alt="windows logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=" height="30" alt=" logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=" height="30" alt=" logo"  />
-  <img width="12" />
-  
-  
-  
-  
 </div>
 
 ###
