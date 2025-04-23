@@ -66,7 +66,7 @@ More about me: [https://dialexy.github.io]
 
 <div align="left">
   <a href="https://dialexy.github.io" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Website&label=&color=000c66&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="website link"  />
+    <img src="https://img.shields.io/static/v1?message=Website&label=&color=d01110&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="website link"  />
   </a>
   <a href="mailto:filiperamos212@gmial.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
