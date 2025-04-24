@@ -2,7 +2,7 @@
 
 I'm a Software Developer from England.
 
-More about me: [https://dialexy.github.io]         <- work in progress - updates as they come out
+More about me: [https://dialexy.github.io]   &nbsp<- work in progress - updates as they come out
 
 ###
 
