@@ -12,7 +12,7 @@ More about me: [https://dialexy.github.io]  <-- work in progress - updates as th
   
   <img src="https://streak-stats.demolab.com?user=Dialexy&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dialexy&theme=tokyonight" height="180" width="10000000000000" alt ="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dialexy&layout=compact&langs_count=10&theme=tokyonight" alt="Top Langs" />
 
 ###
 
