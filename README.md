@@ -67,7 +67,7 @@ More about me: [https://dialexy.github.io]  <-- work in progress - updates as th
 
 ###
 
-<div align="left" className="py-100">
+<div align="left" className="py-92">
   
   <a href="https://dialexy.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="website link" />
