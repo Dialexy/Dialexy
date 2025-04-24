@@ -79,11 +79,11 @@ More about me: [https://dialexy.github.io]  <-- work in progress - updates as th
   </a>
   
   <a href="https://www.instagram.com/filipramos_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=255E63&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
   </a>
   
   <a href="https://x.com/Dialexyyy" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="30" alt=""  />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&color=255E63&logo=twitter&logoColor=white" height="30" alt=""  />
   </a>
   
 </div>
