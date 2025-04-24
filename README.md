@@ -2,7 +2,7 @@
 
 I'm a Software Developer from England.
 
-<pre classname = background-color-blue-100> More about me: [https://dialexy.github.io]  <-- work in progress - updates as they come out </pre>
+More about me: [https://dialexy.github.io]  <-- work in progress - updates as they come out 
 
 ###
 
