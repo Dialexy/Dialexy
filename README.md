@@ -75,7 +75,7 @@ More about me: [https://dialexy.github.io]  <-- work in progress - updates as th
   </a>
   
   <a href="https://www.linkedin.com/in/filipearamos/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&color=255E63&logo=linkedin&logoColor=white" height="30" alt="instagram logo"  />
   </a>
   
   <a href="https://www.instagram.com/filipramos_/" target="_blank">
