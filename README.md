@@ -67,8 +67,6 @@ More about me: [https://dialexy.github.io]  <-- work in progress - updates as th
 
 ###
 
-<div style="height: 2rem;"></div>
-
 <div align="left">
   
   <a href="https://dialexy.github.io" target="_blank">
