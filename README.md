@@ -74,8 +74,11 @@ More about me: [https://dialexy.github.io]  <-- work in progress - updates as th
   <a href="https://www.instagram.com/filipramos_/"?igsh=MXAwNjB2bW43OWc4ag==/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
   </a>
+  <a href="https://www.instagram.com/filipramos_/"?igsh=MXAwNjB2bW43OWc4ag==/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+  </a>
   <a href="https://x.com/Dialexyyy"?igsh=MXAwNjB2bW43OWc4ag==/" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/:Dialexyyy" height="30" alt=""  />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="30" alt=""  />
   </a>
 </div>
 
